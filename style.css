@@ -1,0 +1,1031 @@
+.home {
+  width: 100%;
+  height: 2770px;
+  display: flex;
+  overflow: auto;
+  background-color: #8a9e84;
+}
+.home-navbar {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  background-color: #ffffff;
+}
+.home-logo {
+  top: 12px;
+  left: 60px;
+  width: 307px;
+  height: 124px;
+  position: absolute;
+  object-fit: cover;
+}
+.home-navhome {
+  top: 95px;
+  color: #000000;
+  right: 400px;
+  position: absolute;
+  font-size: 22px;
+  box-shadow: 5px 5px 10px 0px #000000;
+  font-family: Georgia, serif;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.home-navstats {
+  top: 95px;
+  color: #000000;
+  right: 304px;
+  position: absolute;
+  font-size: 22px;
+  text-decoration: none;
+  font-family: Georgia, serif;
+}
+.home-navhonors {
+  top: 95px;
+  color: #000000;
+  right: 183px;
+  position: absolute;
+  font-size: 22px;
+  text-decoration: none;
+  font-family: Georgia, serif;
+}
+.home-navteams {
+  top: 95px;
+  right: 80px;
+  color: #000000;
+  position: absolute;
+  font-size: 22px;
+  text-decoration: none;
+  font-family: Georgia, serif;
+}
+.home-container1 {
+  top: 150px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 100%;
+  height: 720px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-size: 36px;
+  font-family: Georgia, serif;
+}
+.home-pagetitle {
+  top: 350px;
+  left: 200px;
+  color: #ffffff;
+  position: absolute;
+}
+.home-image1 {
+  width: 1600px;
+  height: 720px;
+  object-fit: cover;
+}
+h3 {
+  font-size: 12px;
+  font-family: Georgia;
+}
+.credit-img1 {
+  left: 20px;
+  color: #ffffff;
+  bottom: 0px;
+  position: absolute;
+}
+h2 {
+  font-size: 28px;
+  font-family: Georgia, serif;
+}
+.home-thegoat {
+  top: 320px;
+  left: 200px;
+  color: #ffffff;
+  position: absolute;
+}
+.home-container2 {
+  top: 870px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 100%;
+  height: 900px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  background-color: #293929;
+}
+.home-image2 {
+  top: 0px;
+  left: 0px;
+  width: 950px;
+  height: 750px;
+  position: absolute;
+  margin-top: 75px;
+  object-fit: cover;
+  margin-left: 25px;
+}
+.home-container3 {
+  top: 100px;
+  flex: 0 0 auto;
+  right: 0px;
+  width: 850px;
+  height: 700px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.home-who {
+  top: 0px;
+  color: #000000;
+  position: absolute;
+  margin-top: 210px;
+  margin-left: 100px;
+}
+p {
+  font-size: 18px;
+  font-family: Georgia, serif;
+}
+.home-p {
+  top: 0px;
+  left: 0px;
+  width: 600px;
+  position: absolute;
+  color: #000000;
+  margin-top: 250px;
+  margin-left: 100px;
+}
+.credit-img2 {
+  left: 0px;
+  color: #ffffff;
+  width: 700px;
+  position: absolute;
+  margin-left: 25px;
+  margin-bottom: 30px;
+}
+.home-container4 {
+  top: 1770px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 100%;
+  height: 900px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  background-color: #293929;
+}
+.home-image3 {
+  top: 0px;
+  right: 0px;
+  width: 950px;
+  height: 750px;
+  position: absolute;
+  margin-top: 75px;
+  object-fit: cover;
+  margin-right: 25px;
+}
+.home-container5 {
+  width: 850px;
+  height: 700px;
+  display: flex;
+  position: absolute;
+  margin-top: 100px;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+.credit-img3 {
+  color: #ffffff;
+  right: 0px;
+  width: 700px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 12px;
+  font-family: Georgia, serif;
+  margin-right: 25px;
+  margin-bottom: 30px;
+}
+.footer {
+  width: 100%;
+  height: 100px;
+  align-self: flex-end;
+  display: flex;
+  position: absolute;
+  background-color: #ffffff;
+}
+.footer-logo {
+  top: 15px;
+  left: 60px;
+  width: 200px;
+  position: absolute;
+  object-fit: cover;
+}
+.navbackhome {
+  top: 37px;
+  left: 694px;
+  position: absolute;
+  font-size: 22px;
+  color: #000000;
+  font-family: Georgia, serif;
+  text-decoration: none;
+}
+.navbacktop {
+  top: 37px;
+  left: 850px;
+  position: absolute;
+  color: #000000;
+  font-size: 22px;
+  font-family: Georgia, serif;
+  text-decoration: none;
+}
+.stats {
+  width: 100%;
+  height: 3130px;
+  display: flex;
+  overflow: auto;
+  background-color: #8a9e84;
+}
+.navbar {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  background-color: #ffffff;
+}
+.navbar-logo {
+  top: 2px;
+  left: 60px;
+  width: 230px;
+  height: 95px;
+  position: absolute;
+  object-fit: cover;
+}
+.navbar-navhome {
+  top: 50px;
+  color: #000000;
+  right: 410px;
+  position: absolute;
+  font-size: 22px;
+  align-self: center;
+  font-family: Georgia, serif;
+  text-decoration: none;
+}
+.navbar-navstats {
+  top: 50px;
+  color: #000000;
+  right: 313px;
+  position: absolute;
+  font-size: 22px;
+  font-family: Georgia, serif;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+.stats-navstats {
+  top: 50px;
+  color: #000000;
+  right: 313px;
+  position: absolute;
+  font-size: 22px;
+  box-shadow: 5px 5px 10px 0px #000000;
+  font-family: Georgia, serif;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.navbar-navhonors {
+  top: 50px;
+  color: #000000;
+  right: 192px;
+  position: absolute;
+  font-size: 22px;
+  font-family: Georgia, serif;
+  text-decoration: none;
+}
+.honors-navhonors {
+  top: 50px;
+  color: #000000;
+  right: 192px;
+  position: absolute;
+  font-size: 22px;
+  box-shadow: 5px 5px 10px 0px #000000;
+  font-family: Georgia, serif;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.navbar-navteams {
+  top: 50px;
+  right: 80px;
+  color: #000000;
+  position: absolute;
+  font-size: 22px;
+  text-decoration: none;
+  font-family: Georgia, serif;
+}
+.teams-navteams {
+  top: 50px;
+  right: 80px;
+  position: absolute;
+  color: #000000;
+  box-shadow: 5px 5px 10px 0px #000000;
+  text-transform: uppercase;
+  font-size: 22px;
+  font-family: Georgia, serif;
+  text-decoration: none;
+}
+.pagetitlebox {
+  top: 100px;
+  left: 0px;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  background-image: linear-gradient(to bottom, #8a9e84 0%, #4b5944 100%);
+}
+.pagetitle {
+  left: 80px;
+  color: #ffffff;
+  position: absolute;
+}
+.stats-arabchamp {
+  top: 220px;
+  left: 15px;
+  width: 98%;
+  height: 420px;
+  display: flex;
+  position: absolute;
+  background-color: #627a5c;
+}
+.stats-heading {
+  left: 15px;
+  color: #ffffff;
+  position: absolute;
+  font-size: 28px;
+  font-family: Georgia, serif;
+}
+.stats-container2 {
+  width: 1400px;
+  height: 330px;
+  display: flex;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 80px;
+  background-color: #293929;
+}
+.stats-container3 {
+  width: 1251px;
+  position: absolute;
+  display: flex;
+  margin-left: 80px;
+  align-self: center;
+}
+td {
+  border-color:#ffffff;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+  color:#ffffff;
+  font-family:Georgia, serif;
+  font-size:18px;
+  text-align:center;
+}
+th {
+  border-color:#ffffff;
+  border-style:solid;
+  border-width:1px;
+  overflow:hidden;
+  padding:10px 5px;
+  word-break:normal;
+  color:#ffffff;
+  font-family:Georgia, serif;
+  font-size:18px;
+  font-weight:bold;
+  text-align:center;
+}
+.table {
+  border-collapse:collapse;
+  border-spacing:0;
+}
+.stats-league {
+  top: 660px;
+  left: 15px;
+  right: 0px;
+  width: 98%;
+  height: 1000px;
+  display: flex;
+  position: absolute;
+  background-color: #627a5c;
+}
+.stats-container4 {
+  width: 1400px;
+  height: 920px;
+  display: flex;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 80px;
+  background-color: #293929;
+}
+.stats-container5 {
+  width: 1189px;
+  position: absolute;
+  margin-left: 110px;
+  align-self: center;
+}
+.stats-afc {
+  top: 1680px;
+  left: 15px;
+  width: 98%;
+  height: 510px;
+  display: flex;
+  position: absolute;
+  background-color: #627a5c;
+}
+.stats-container6 {
+  width: 1400px;
+  height: 420px;
+  display: flex;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 80px;
+  background-color: #293929;
+}
+.stats-container7 {
+  width: 1288px;
+  position: absolute;
+  margin-left: 65px;
+  align-self: center;
+}
+.stats-kingscup {
+  top: 2210px;
+  left: 15px;
+  width: 98%;
+  height: 250px;
+  display: flex;
+  position: absolute;
+  background-color: #627a5c;
+}
+.stats-container8 {
+  width: 1400px;
+  height: 170px;
+  display: flex;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 80px;
+  background-color: #293929;
+}
+.stats-container9 {
+  width: 1212px;
+  position: absolute;
+  margin-left: 95px;
+  align-self: center;
+}
+.stats-euroqual {
+  top: 2480px;
+  left: 15px;
+  width: 98%;
+  height: 530px;
+  display: flex;
+  position: absolute;
+  background-color: #627a5c;
+}
+.stats-container10 {
+  width: 1400px;
+  height: 450px;
+  display: flex;
+  position: absolute;
+  margin-top: 70px;
+  margin-left: 80px;
+  background-color: #293929;
+}
+.stats-container11 {
+  width: 1203px;
+  position: absolute;
+  margin-left: 100px;
+  align-self: center;
+}
+.honors {
+  width: 100%;
+  height: 3175px;
+  display: flex;
+  overflow: auto;
+  background-color: #8a9e84;
+}
+.honors-container2 {
+  top: 230px;
+  left: 38px;
+  width: 95%;
+  height: 800px;
+  display: flex;
+  position: absolute;
+  background-color: #D9D9D9;
+}
+.honors-image1 {
+  top: 50px;
+  left: 50px;
+  width: 1000px;
+  height: 700px;
+  position: absolute;
+  object-fit: cover;
+}
+.honors-container3 {
+  top: 125px;
+  right: 50px;
+  width: 780px;
+  height: 550px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.honors-p1 {
+  top: 160px;
+  left: 75px;
+  color: #ffffff;
+  width: 630px;
+  position: absolute;
+  font-family: Georgia, serif;
+}
+.honors-career{
+  top: 100px;
+  left: 75px;
+  color: #ffffff;
+  position: absolute;
+}
+.credit-img4 {
+  color: #000000;
+  width: 700px;
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 750px;
+}
+.honors-container4 {
+  top: 1055px;
+  width: 100%;
+  height: 1000px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.honors-container5 {
+  right: 0px;
+  width: 800px;
+  height: 1000px;
+  display: flex;
+  position: absolute;
+  background-color: #282d23;
+}
+.honors-container6 {
+  right: 25px;
+  width: 750px;
+  bottom: 45px;
+  height: 450px;
+  display: flex;
+  position: absolute;
+  background-color: #3d4437;
+}
+.honors-p2 {
+  color: #ffffff;
+  width: 600px;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 80px;
+}
+.honors-container7 {
+  top: 45px;
+  right: 25px;
+  width: 750px;
+  height: 450px;
+  display: flex;
+  position: absolute;
+  background-color: #3d4437;
+}
+.honors-p3 {
+  color: #ffffff;
+  width: 600px;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 80px;
+}
+.honors-container8 {
+  left: 90px;
+  width: 600px;
+  bottom: 40px;
+  height: 600px;
+  display: flex;
+  position: absolute;
+  background-color: #ffffff;
+}
+.honors-image2 {
+  top: 25px;
+  left: 25px;
+  width: 550px;
+  height: 550px;
+  position: absolute;
+  object-fit: cover;
+}
+.credit-img6 {
+  width: 500px;
+  bottom: 0px;
+  position: absolute;
+  margin-left: 30px;
+  margin-bottom: 25px;
+}
+.honors-container9 {
+  top: 20px;
+  left: 20px;
+  width: 500px;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #ffffff;
+}
+.honors-image3 {
+  top: 20px;
+  left: 20px;
+  width: 460px;
+  height: 460px;
+  position: absolute;
+  object-fit: cover;
+}
+.credit-img5 {
+  color: #000000;
+  width: 280px;
+  bottom: 20px;
+  position: absolute;
+  margin-left: 30px;
+}
+.honors-container10 {
+  top: 250px;
+  left: 320px;
+  width: 450px;
+  height: 450px;
+  display: flex;
+  position: absolute;
+  background-color: #969696;
+}
+.honors-image4 {
+  top: 15px;
+  left: 15px;
+  width: 420px;
+  height: 420px;
+  position: absolute;
+  object-fit: cover;
+}
+.credit-img7 {
+  left: 20px;
+  color: #000000;
+  width: 420px;
+  bottom: 10px;
+  position: absolute;
+}
+.honors-container11 {
+  top: 2075px;
+  left: 20px;
+  width: 97.5%;
+  height: 1000px;
+  display: flex;
+  position: absolute;
+  background-color: #D9D9D9;
+}
+.honors-container12 {
+  top: 20px;
+  left: 20px;
+  width: 48%;
+  height: 960px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+dl {
+  color: #ffffff;
+  width: 600px;
+  position: absolute;
+  font-size: 18px;
+  margin-top: 130px;
+  font-family: Georgia, serif;
+  margin-left: 60px;
+  list-style-image: none;
+}
+dt {
+  font-weight: 700;
+  margin-top: 10px;
+}
+dd {
+  margin-top: 10px;
+}
+.honors-listhead {
+  color: #ffffff;
+  position: absolute;
+  margin-top: 80px;
+  margin-left: 75px;
+  text-decoration: underline;
+}
+.honors-container13 {
+  top: 20px;
+  right: 20px;
+  width: 48%;
+  height: 960px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+ol {
+  color: #ffffff;
+  width: 600px;
+  position: absolute;
+  margin-top: 130px;
+  margin-left: 60px;
+  font-family: Georgia, serif;
+  list-style-type: decimal;
+}
+li{
+  color: #ffffff;
+  font-size: 18px;
+  font-family: Georgia, serif;
+  margin-top: 10px;
+}
+.teams-portugal {
+  top: 210px;
+  flex: 0 0 auto;
+  left: 0px;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.teams-lefthead {
+  top: 100px;
+  left: 100px;
+  color: #ffffff;
+  position: absolute;
+}
+.teams-image1 {
+  top: 10px;
+  right: 10px;
+  width: 720px;
+  height: 480px;
+  position: absolute;
+  object-fit: cover;
+}
+.teams-leftp {
+  color: #ffffff;
+  width: 700px;
+  position: absolute;
+  margin-top: 180px;
+  font-size: 16px;
+  font-family: Georgia, serif;
+  margin-left: 100px;
+}
+.credit-img8 {
+  left: 100px;
+  color: rgb(253, 251, 251);
+  width: 700px;
+  bottom: 20px;
+  position: absolute;
+  font-size: 12px;
+}
+a {
+  font-family: Georgia, serif;
+  text-decoration: underline;
+  font-size: 16px;
+}
+.knowmore1 {
+  color: #ffffff;
+  position: absolute;
+  margin-top: 360px;
+  margin-left: 100px;
+}
+.teams-sporting {
+  top: 720px;
+  left: 0px;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.teams-righthead {
+  top: 100px;
+  color: #ffffff;
+  right: 0px;
+  position: absolute;
+  margin-right: 100px;
+}
+.teams-image2 {
+  top: 10px;
+  left: 10px;
+  width: 720px;
+  height: 480px;
+  position: absolute;
+  object-fit: cover;
+}
+.teams-rightp {
+  top: 0px;
+  color: #ffffff;
+  right: 0px;
+  width: 700px;
+  position: absolute;
+  font-size: 16px;
+  margin-top: 180px;
+  font-family: Georgia, serif;
+  margin-right: 100px;
+}
+.credit-img9 {
+  color: #ffffff;
+  right: 100px;
+  width: 700px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 12px;
+  margin-bottom: 30px;
+}
+.knowmore2 {
+  bottom: 0px;
+  color: #ffffff;
+  position: absolute;
+  margin-bottom: 100px;
+  margin-left: 885px;
+}
+.teams-manutd {
+  top: 1230px;
+  width: 100%;
+  left: 0px;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.teams-image3 {
+  top: 10px;
+  right: 10px;
+  width: 720px;
+  height: 480px;
+  position: absolute;
+  object-fit: cover;
+}
+.knowmore3 {
+  bottom: 0px;
+  color: #ffffff;
+  width: 700px;
+  position: absolute;
+  margin-bottom: 150px;
+  margin-left: 100px;
+}
+.credit-img10 {
+  color: #ffffff;
+  width: 700px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 12px;
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
+.teams-realmadrid {
+  top: 1740px;
+  left: 0px;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.teams-image4 {
+  top: 10px;
+  left: 10px;
+  width: 720px;
+  height: 480px;
+  position: absolute;
+  object-fit: cover;
+}
+.credit-img11 {
+  color: #ffffff;
+  right: 0px;
+  width: 700px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 12px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+.knowmore4 {
+  top: 330px;
+  color: #ffffff;
+  right: 580px;
+  position: absolute;
+}
+.teams-juventus {
+  top: 2250px;
+  width: 100%;
+  left: 0px;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.teams-image5 {
+  top: 10px;
+  right: 10px;
+  width: 720px;
+  height: 480px;
+  position: absolute;
+  object-fit: cover;
+}
+.credit-img12 {
+  left: 100px;
+  color: #ffffff;
+  width: 700px;
+  bottom: 20px;
+  position: absolute;
+  font-size: 12px;
+}
+.knowmore5 {
+  top: 0px;
+  color: #ffffff;
+  position: absolute;
+  margin-top: 350px;
+  margin-left: 100px;
+}
+.teams-manutd2 {
+  top: 2760px;
+  left: 0px;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.teams-image6 {
+  top: 0px;
+  left: 0px;
+  width: 720px;
+  height: 480px;
+  position: absolute;
+  margin-top: 10px;
+  object-fit: cover;
+  margin-left: 10px;
+}
+.credit-img13 {
+  color: #ffffff;
+  right: 0px;
+  width: 700px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 12px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+.knowmore6 {
+  color: #ffffff;
+  right: 535px;
+  bottom: 130px;
+  position: absolute;
+  text-decoration: underline;
+}
+.teams-alnassr {
+  top: 3270px;
+  left: 0px;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  position: absolute;
+  background-color: #293929;
+}
+.teams-image7 {
+  top: 10px;
+  right: 10px;
+  width: 720px;
+  height: 480px;
+  position: absolute;
+  object-fit: cover;
+}
+.credit-img14{
+  color: #ffffff;
+  width: 700px;
+  bottom: 0px;
+  position: absolute;
+  font-size: 12px;
+  margin-left: 100px;
+  margin-bottom: 30px;
+}
+.knowmore7 {
+  top: 0px;
+  left: 0px;
+  color: #ffffff;
+  position: absolute;
+  margin-top: 350px;
+  font-family: Georgia, serif;
+  margin-left: 100px;
+  text-decoration: underline;
+}
+.teams {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  height: 3870px;
+  align-items: center;
+  background-color: #8a9e84;
+}
